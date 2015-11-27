@@ -1,6 +1,6 @@
 #!/bin/sh
-echo "Hello $USERNAME !"
 iss53(){
 	echo "fixing the iss53 bug."
+	echo "End of bug fix. tested."
 }
 exit 0
